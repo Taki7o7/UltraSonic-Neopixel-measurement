@@ -1,4 +1,4 @@
-# Ultrasonic distance measurement virtualized with neopixels
+// Ultrasonic distance measurement virtualized with neopixels
 
 #include <Adafruit_NeoPixel.h>
 #define PIN 6
